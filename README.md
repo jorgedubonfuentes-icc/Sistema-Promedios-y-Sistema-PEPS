@@ -11,7 +11,7 @@ Pequeño sistema de inventario con C# y MySQL Brench, presenta un pequeño menu 
 ## Instalación
 1. Clonar el repositorio: `git clone https://github.com/usuario/Sistema-Promedios-y-Sistema-PEPS.git`
 2. Abrir el proyecto en Visual Studio
-3. Ejecutar los scripts SQL en MySQL (`database/schema.sql` y `database/sample_data.sql`)
+3. Crear un schema y ejecutar la query de la base de datos
 
 
 ## Autor
